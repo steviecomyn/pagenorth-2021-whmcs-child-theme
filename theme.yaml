@@ -1,0 +1,5 @@
+name: "PageNorth 2021"
+description: "PageNorth's Branded 2021 Theme"
+author: "PageNorth LTD"
+config:
+  parent: twenty-one
